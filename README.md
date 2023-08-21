@@ -28,8 +28,7 @@ Gear up by installing:
 - sklearn
 
 To install, use the following pip command:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+- pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 📊 Dataset Deep Dive:
 
