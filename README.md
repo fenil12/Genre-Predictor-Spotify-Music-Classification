@@ -1,17 +1,6 @@
 # 🎵 Spotify Genre Matrix Predictor 🎵
 
-_By Team "To Be or Not to Be" (CS985MLDAGroup15)_
-
 ![Matrix Neo Gif](https://media.tenor.com/c-I5YMwtnLoAAAAS/matrix-neo.gif)
-
-## 🌟 Team Spotlight:
-
-- **Nishant Vimal** 
-- **Fenil Patel** 
-- **Rohit Satavekar** 
-- **Chirdeep Singh Reen** 
-- **Amit Pathak** 
-- **Suditi Sharma** 
 
 ## 🎼 Project Essence:
 
