@@ -1,20 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Its all about the Matrix! presented by 2B || !2B Team(CS985MLDAGroup15)
-# #### Students Numbers :- 
-# 202358886(Nishant Vimal)
-# <br>
-# 202370451(Fenil Patel)
-# <br>
-# 202394632(Rohit Satavekar)
-# <br>
-# 202358691(Chirdeep Singh Reen)
-# <br>
-# 202359355(Amit Pathak)
-# <br>
-# 202358578(Suditi Sharma)
-# 
+# ## Its all about the Matrix!
 # <div style = "float: left; margin-right: 10px; padding-top: 5px">
 #     <img src="https://media.tenor.com/c-I5YMwtnLoAAAAS/matrix-neo.gif" width="200" height="100">
 # </div>
